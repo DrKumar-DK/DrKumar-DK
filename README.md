@@ -36,4 +36,4 @@ Let's create the future of immersive technology together! 🚀
 
 ## 📈 GitHub Stats:
 
-![DrKumar-DK's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrKumar-DK)](https://github.com/DrKumar-DK/github-readme-stats)
+![DrKumar-DK's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrKumar-DK)]
