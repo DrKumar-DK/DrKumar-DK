@@ -33,7 +33,3 @@ My expertise lies in designing and developing immersive experiences that leverag
 - LinkedIn: [www.linkedin.com/in/kumaresandeveloper]
 
 Let's create the future of immersive technology together! 🚀
-
-## 📈 GitHub Stats:
-
-![DrKumar-DK's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrKumar-DK)]
